@@ -1,0 +1,5 @@
+﻿  Utils.cpp
+C:\Users\rawmalik\Documents\CSCE612_HW2_DNS\CSCE612_HW2_DNS\Utils.cpp(40,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Utils.cpp')
+  
+  CSCE612_HW2_DNS.vcxproj -> C:\Users\rawmalik\Documents\CSCE612_HW2_DNS\x64\Debug\CSCE612_HW2_DNS.exe
